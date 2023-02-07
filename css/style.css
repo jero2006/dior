@@ -1,0 +1,7 @@
+#carouselExampleIndicators{
+    max-width: 80vw;
+    
+}
+#carouselExampleIndicators, .carrousel-inner, .carrousel-item{
+    margin-left: 10vw;
+}

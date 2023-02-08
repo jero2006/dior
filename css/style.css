@@ -4,4 +4,33 @@
 }
 #carouselExampleIndicators, .carrousel-inner, .carrousel-item{
     margin-left: 10vw;
+    min-height: 60%;
+}
+#flecha{
+    width: 100%;
+    margin: 5vh 0;
+    padding: 0;
+    height: 15vh;
+}
+#flecha img{
+    width: 10vw;
+    margin-left: 45vw;
+    margin-top: -30vh;
+    z-index: -1;
+}
+
+@keyframes flecha {
+    0%{
+        z-index: -1;
+        margin-top: -30vh;
+    }
+    100%{
+        z-index: 1;
+        margin-top: 0;
+    }
+}
+#two-dot-first{
+    height: 100vh;
+    background-color: gray;
+    margin-bottom: 10vh;
 }

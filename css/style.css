@@ -31,6 +31,16 @@
 }
 #two-dot-first{
     height: 100vh;
-    background-color: gray;
+    margin-top: 15vh;
     margin-bottom: 10vh;
+}
+#pub1 img{
+    max-width: 30vw;
+}
+#pub1{
+    text-align: center !important;
+}
+#pub1 div p{
+    margin-top: 10vh;
+    max-height: 10vh;
 }

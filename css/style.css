@@ -30,7 +30,6 @@
     }
 }
 #two-dot-first{
-    height: 100vh;
     margin-top: 15vh;
     margin-bottom: 10vh;
 }
@@ -50,4 +49,5 @@
     max-width: 20vw;
     max-height: 5vw;
     margin-left: 40vw;
+    margin-bottom: 10vh;
 }
